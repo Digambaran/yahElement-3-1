@@ -1,1 +1,1 @@
-{"name":"yahElement-3","type":"function","source":{"https":"https://github.com/Digambaran/yahElement-3","ssh":"git@github.com:Digambaran/yahElement-3.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i","standAloneBlock":true}
+{"name":"yahElement-3-1","type":"function","source":{"https":"https://github.com/Digambaran/yahElement-3-1","ssh":"git@github.com:Digambaran/yahElement-3-1.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i","standAloneBlock":true}
